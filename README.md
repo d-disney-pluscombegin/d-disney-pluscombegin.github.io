@@ -1,6 +1,6 @@
 # Disneyplus.com/begin 
 
-[![Disneyplus.com/begin](get-started.png)](http://dis.amdonline.site/)
+[![Disneyplus.com/begin](get-started.png)](https://dis.activateprod.online/)
 
 Disney Plus is gaining popularity at an incredibly fast rate because of its amazing video collections that attracts the users to get disney plus subscription. At disneyplus you can enjoy movies, tv shows and other disney plus originals at one price for all. If you are looking for the complete setup guide for your disney plus streaming player then visit [disneyplus.com/begin](https://d-disney-pluscombegin.github.io/) and follow the procedure given here. 
 
